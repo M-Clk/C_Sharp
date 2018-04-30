@@ -1,0 +1,8 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\bin\Debug\Zamanlayici.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\bin\Debug\Zamanlayici.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\obj\Debug\Zamanlayici.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\obj\Debug\Zamanlayici.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\obj\Debug\Zamanlayici.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\obj\Debug\Zamanlayici.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\obj\Debug\Zamanlayici.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\obj\Debug\Zamanlayici.frmSayac.resources
